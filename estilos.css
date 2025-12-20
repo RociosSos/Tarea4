@@ -57,10 +57,18 @@ hr{
 }
 
 p{
-    font-family: 'simps', sans-serif;
     margin: 2rem 0;
     font-size: 1.2rem;
     line-height: 1.5rem;
+}
+
+.psimps{
+    font-family: 'simps', sans-serif;
+}
+
+.pHarry{ 
+    font-family: 'Hp', sans-serif;
+
 }
 
 .btn{
